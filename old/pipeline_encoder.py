@@ -38,12 +38,19 @@ class EncodingPipeline:
             ("scaler", MinMaxScaler())
         ])
 
-        full_preprocessor = ColumnTransformer([
+        self.full_preprocessor = ColumnTransformer([
             ("num", numerical_pipeline, numerical_features),
             ("cat", categorical_pipeline, categorical_features)
         ],
             remainder='passthrough',
             verbose_feature_names_out=False,)
 
-        X = full_preprocessor.fit_transform(self.df)
+        X = self.full_preprocessor.fit_transform(self.df)
         return X
+    
+    def transform(self, test_df: pd.DataFrame) -> pd.DataFrame:
+            if self.full_preprocessor is None:
+                raise RuntimeError("Najpierw wywołaj fit_transform na danych treningowych!")
+            
+            # Używamy TYLKO .transform(), żeby zachować skale i kategorie z UCSF
+            return self.full_preprocessor.transform(test_df)

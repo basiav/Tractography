@@ -5,3 +5,5 @@ CSVs/
 results-KernelPCA/
 results-NMF/
 results-PCA/
+old/results*/
+old/__pycache__/
