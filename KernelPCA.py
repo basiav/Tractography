@@ -24,6 +24,8 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
         self.shape = template.get_fdata().shape
         self.template = template
 
+        self.kernel = kernel
+
         # Sci-kit learn PCA method
         # PCA.__init__(self, n_components=n_components)
         KernelPCA.__init__(self, 
@@ -325,3 +327,13 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
             return self.unmask(raw_components)
         
         return raw_components
+
+    def __str__(self):
+        return "KernelPCA"
+    
+    def __repr__(self):
+        return "KernelPCA"
+    
+    @property
+    def value(self):
+        return self.kernel

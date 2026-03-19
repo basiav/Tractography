@@ -295,3 +295,13 @@ class TD_PCA(PCA, Normalizations, MaskingNew):
             plt.close(fig)
 
         return thresholds_indices
+
+    def __str__(self):
+        return "PCA"
+    
+    def __repr__(self):
+        return "PCA"
+    
+    @property
+    def value(self):
+        return "PCA"
