@@ -73,6 +73,9 @@ def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, z_t
     ucsf, _, _ = process_UCSF(root, stream_th, UCSF_dir)
     upenn, _, _ = process_UPENN(root, stream_th, UPENN_dir)
 
+    # print("upenn:", upenn.columns)
+    # print("ucsf:",  ucsf.columns)
+
     # UCSF
     df_ucsf = pd.DataFrame({
         "ID": ucsf["ID"].values,
@@ -102,7 +105,7 @@ def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, z_t
         "status": upenn["Survival_Status"],
         # Added
         # "EOR": upenn["EOR"],
-        # "MGMT status": upenn["MGMT status"]
+        # "MGMT status": upenn["MGMT"]
     })
 
     DATA = pd.concat([df_ucsf, df_upenn], axis=0, ignore_index=True)
