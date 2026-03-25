@@ -41,7 +41,10 @@ class NMFProjections(MaskingNew, NMF):
                 self.training_maps = np.array(training_maps)
 
             # Normalization utilities
-            Normalizations.__init__(self, self.training_maps)   
+            Normalizations.__init__(self, self.training_maps)
+    
+    def fit(self, norm=None):
+        return self.fit_transform_maps(norm)
 
     def fit_transform_maps(self, norm=None):
         """

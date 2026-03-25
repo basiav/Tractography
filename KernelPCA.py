@@ -41,7 +41,14 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
             self.training_maps = np.array(training_maps)
 
         # Normalization utilities
-        Normalizations.__init__(self, self.training_maps)   
+        Normalizations.__init__(self, self.training_maps)
+
+    def fit(self, norm=None):
+        return self.fit_pca_maps(self, norm)
+
+
+    def fit_transform_maps(self, norm=None):
+        return self.fit_pca_maps(norm=norm)  
 
     def fit_pca_maps(self, norm=None):
         """
