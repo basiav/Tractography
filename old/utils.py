@@ -57,6 +57,7 @@ def process_UPENN(root, stream_th, UPENN_dir=None):
 
     root_upenn = os.path.join(root, UPENN_dir)
     TDstats_upenn = pd.read_csv(os.path.join(root_upenn, f"TDMaps_IDH1-WT/demographics-TDMaps_streamTH-{stream_th}.csv"))
+    # TDstats_upenn = pd.read_csv("/home/joan/Desktop/PROJECTS/Glioblastomas/RESULTS-GBM_4-cohorts_UMAP-Risks/data-clinical_parcellation-hcpex_4-cohorts.csv")
     morphology_upenn = pd.read_csv(os.path.join(root_upenn, f"TDMaps_IDH1-WT/morphology-tissues.csv"))
         
     common_cols = ["ID", "Gender", "Age_at_scan_years", "Survival_from_surgery_days_UPDATED", "Survival_Status", "MGMT", "KPS", "GTR_over90percent"]
@@ -70,42 +71,53 @@ def process_UPENN(root, stream_th, UPENN_dir=None):
     return upenn, censored, all_upenn
 
 def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, z_transform=0, cohort_ids=[0,1]):
-    ucsf, _, _ = process_UCSF(root, stream_th, UCSF_dir)
-    upenn, _, _ = process_UPENN(root, stream_th, UPENN_dir)
+    # ucsf, _, _ = process_UCSF(root, stream_th, UCSF_dir)
+    # upenn, _, _ = process_UPENN(root, stream_th, UPENN_dir)
 
-    # print("upenn:", upenn.columns)
-    # print("ucsf:",  ucsf.columns)
+    df = pd.read_csv("/home/joan/Desktop/PROJECTS/Glioblastomas/RESULTS-GBM_4-cohorts_UMAP-Risks/data-clinical_parcellation-hcpex_4-cohorts.csv")
+    site_groups = {site: data for site, data in df.groupby(df['ID'].str.split('-').str[0])}
+    ucsf = site_groups.get('UCSF')
+    upenn = site_groups.get('UPENN')
 
     # UCSF
     df_ucsf = pd.DataFrame({
         "ID": ucsf["ID"].values,
-        "sex": ucsf["Sex"].values,
-        "age": ucsf["Age at MRI"].values,
+        "sex": ucsf["sex"].values,
+        "age": ucsf["age"].values,
         "site": np.zeros(len(ucsf), dtype=int) + cohort_ids[0],  # UCSF = 0
         "volume": ucsf["Whole tumor size (voxels)"].values * voxel_size,
         "ltdi": ucsf["Whole lesion TDMap"].values,
         "tdi": ucsf["Whole TDMap"].values,
-        "OS": ucsf["OS"].values,
-        "status": ucsf["1-dead 0-alive"],
+        "OS": ucsf["OS (days) - corrected"].values,
+        # "status": ucsf["1-dead 0-alive"],
+        "status": ucsf["status"],
         # Added
-        # "EOR": ucsf["EOR"],
+        "EOR": ucsf["eor"],
         # "MGMT status": ucsf["MGMT status"]
+        "MGMT": ucsf["mgmt"]
     })
 
     # UPENN
     df_upenn = pd.DataFrame({
         "ID": upenn["ID"].values,
-        "sex": upenn["Gender"].values,
-        "age": upenn["Age_at_scan_years"].values,
+        # "sex": upenn["Gender"].values,
+        "sex": upenn["sex"],
+        "age": upenn["age"].values,
         "site": np.zeros(len(upenn), dtype=int) + cohort_ids[1],  # UPENN = 1
         "volume": upenn["Whole tumor size (voxels)"].values * voxel_size,
         "ltdi": upenn["Whole lesion TDMap"].values,
         "tdi": upenn["Whole TDMap"].values,
-        "OS": upenn["Survival_from_surgery_days_UPDATED"],
-        "status": upenn["Survival_Status"],
+        "OS": upenn["OS (days) - corrected"],
+        # "status": upenn["Survival_Status"],
         # Added
         # "EOR": upenn["EOR"],
         # "MGMT status": upenn["MGMT"]
+                # "status": ucsf["1-dead 0-alive"],
+        "status": upenn["status"],
+        # Added
+        "EOR": upenn["eor"],
+        # "MGMT status": ucsf["MGMT status"]
+        "MGMT": upenn["mgmt"]
     })
 
     DATA = pd.concat([df_ucsf, df_upenn], axis=0, ignore_index=True)
