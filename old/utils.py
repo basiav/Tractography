@@ -70,14 +70,17 @@ def process_UPENN(root, stream_th, UPENN_dir=None):
 
     return upenn, censored, all_upenn
 
-def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, z_transform=0, cohort_ids=[0,1]):
+def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, RHUH_dir=None, TCGA_dir=None, z_transform=0, cohort_ids=[0,1,2,3]):
     # ucsf, _, _ = process_UCSF(root, stream_th, UCSF_dir)
     # upenn, _, _ = process_UPENN(root, stream_th, UPENN_dir)
 
-    df = pd.read_csv("/home/joan/Desktop/PROJECTS/Glioblastomas/RESULTS-GBM_4-cohorts_UMAP-Risks/data-clinical_parcellation-hcpex_4-cohorts.csv")
+    # df = pd.read_csv("/home/joan/Desktop/PROJECTS/Glioblastomas/RESULTS-GBM_4-cohorts_UMAP-Risks/data-clinical_parcellation-hcpex_4-cohorts.csv")
+    df = pd.read_csv("/home/joan/Desktop/PROJECTS/Barbara/Tract-Density_Components-Survival/data-clinical_parcellation-hcpex_4-cohorts.csv")
     site_groups = {site: data for site, data in df.groupby(df['ID'].str.split('-').str[0])}
     ucsf = site_groups.get('UCSF')
     upenn = site_groups.get('UPENN')
+    rhuh = site_groups.get('RHUH')
+    tcga = site_groups.get('TCGA')
 
     # UCSF
     df_ucsf = pd.DataFrame({
@@ -120,7 +123,52 @@ def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, z_t
         "MGMT": upenn["mgmt"]
     })
 
-    DATA = pd.concat([df_ucsf, df_upenn], axis=0, ignore_index=True)
+    # DATA = pd.concat([df_ucsf, df_upenn], axis=0, ignore_index=True)
+    df_rhuh = pd.DataFrame({
+        "ID": rhuh["ID"].values,
+        # "sex": rhuh["Gender"].values,
+        "sex": rhuh["sex"],
+        "age": rhuh["age"].values,
+        "site": np.zeros(len(rhuh), dtype=int) + cohort_ids[2],  # RHUH = 2
+        "volume": rhuh["Whole tumor size (voxels)"].values * voxel_size,
+        "ltdi": rhuh["Whole lesion TDMap"].values,
+        "tdi": rhuh["Whole TDMap"].values,
+        "OS": rhuh["OS (days) - corrected"],
+        # "status": rhuh["Survival_Status"],
+        # Added
+        # "EOR": rhuh["EOR"],
+        # "MGMT status": rhuh["MGMT"]
+                # "status": ucsf["1-dead 0-alive"],
+        "status": rhuh["status"],
+        # Added
+        "EOR": rhuh["eor"],
+        # "MGMT status": ucsf["MGMT status"]
+        "MGMT": rhuh["mgmt"]
+    })
+
+    df_tcga = pd.DataFrame({
+        "ID": tcga["ID"].values,
+        # "sex": tcga["Gender"].values,
+        "sex": tcga["sex"],
+        "age": tcga["age"].values,
+        "site": np.zeros(len(tcga), dtype=int) + cohort_ids[3],  # TCGA = 3
+        "volume": tcga["Whole tumor size (voxels)"].values * voxel_size,
+        "ltdi": tcga["Whole lesion TDMap"].values,
+        "tdi": tcga["Whole TDMap"].values,
+        "OS": tcga["OS (days) - corrected"],
+        # "status": tcga["Survival_Status"],
+        # Added
+        # "EOR": tcga["EOR"],
+        # "MGMT status": tcga["MGMT"]
+                # "status": ucsf["1-dead 0-alive"],
+        "status": tcga["status"],
+        # Added
+        "EOR": tcga["eor"],
+        # "MGMT status": ucsf["MGMT status"]
+        "MGMT": tcga["mgmt"]
+    })
+
+    DATA = pd.concat([df_ucsf, df_upenn, df_rhuh, df_tcga], axis=0, ignore_index=True)
 
     if z_transform == 1:
         for col in ["age", "volume", "ltdi", "tdi"]:
