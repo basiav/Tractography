@@ -335,3 +335,7 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
     @property
     def value(self):
         return self.kernel
+    
+
+    def fit_transform_maps(self, norm=None):
+        return self.fit_pca_maps(norm=norm)
