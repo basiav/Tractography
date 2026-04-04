@@ -109,46 +109,226 @@ PCA,ucsf,upenn,1.001,0.6010000000000001,CoxPHFitter,0.67562,0.63004,"sex, age, v
 PCA,ucsf,upenn,1.001,0.7010000000000001,CoxPHFitter,0.67526,0.62997,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,ucsf,upenn,1.001,0.801,CoxPHFitter,0.67533,0.62991,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,ucsf,upenn,1.001,0.901,CoxPHFitter,0.67526,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.001,CoxPHFitter,0.68186,0.6359,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.101,CoxPHFitter,0.67828,0.62158,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.201,CoxPHFitter,0.67869,0.63341,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.30100000000000005,CoxPHFitter,0.67598,0.63158,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.401,CoxPHFitter,0.67562,0.63055,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.501,CoxPHFitter,0.67557,0.6302,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.6010000000000001,CoxPHFitter,0.67538,0.63,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.7010000000000001,CoxPHFitter,0.67533,0.62991,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.801,CoxPHFitter,0.67528,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.101,0.901,CoxPHFitter,0.67518,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.001,CoxPHFitter,0.68157,0.63578,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.101,CoxPHFitter,0.67634,0.61913,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.201,CoxPHFitter,0.67806,0.6329,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.30100000000000005,CoxPHFitter,0.6759,0.63096,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.401,CoxPHFitter,0.67562,0.63034,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.501,CoxPHFitter,0.67562,0.63004,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.6010000000000001,CoxPHFitter,0.67523,0.62992,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.7010000000000001,CoxPHFitter,0.67535,0.62991,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.801,CoxPHFitter,0.67518,0.62996,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.201,0.901,CoxPHFitter,0.67516,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.001,CoxPHFitter,0.6815,0.63596,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.101,CoxPHFitter,0.67432,0.61757,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.201,CoxPHFitter,0.67732,0.63247,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.30100000000000005,CoxPHFitter,0.67586,0.63064,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.401,CoxPHFitter,0.67559,0.6303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.501,CoxPHFitter,0.6754,0.63,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.6010000000000001,CoxPHFitter,0.67533,0.6299,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.7010000000000001,CoxPHFitter,0.67523,0.62994,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.801,CoxPHFitter,0.67514,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.301,0.901,CoxPHFitter,0.67506,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.001,CoxPHFitter,0.68094,0.63569,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.101,CoxPHFitter,0.67375,0.6174,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.201,CoxPHFitter,0.67706,0.63226,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.30100000000000005,CoxPHFitter,0.67566,0.63058,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.401,CoxPHFitter,0.67559,0.63021,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.501,CoxPHFitter,0.67526,0.62997,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.6010000000000001,CoxPHFitter,0.67535,0.62991,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.7010000000000001,CoxPHFitter,0.67518,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.801,CoxPHFitter,0.67514,0.62994,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf,upenn,1.401,0.901,CoxPHFitter,0.67506,0.62995,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.001,CoxPHFitter,0.68706,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.101,CoxPHFitter,0.68706,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.201,CoxPHFitter,0.68697,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.30100000000000005,CoxPHFitter,0.68701,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.401,CoxPHFitter,0.68699,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.501,CoxPHFitter,0.68704,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.6010000000000001,CoxPHFitter,0.68704,0.67127,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.7010000000000001,CoxPHFitter,0.68699,0.67403,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.801,CoxPHFitter,0.68713,0.67127,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.001,0.901,CoxPHFitter,0.68713,0.6768,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.001,CoxPHFitter,0.68629,0.66851,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.101,CoxPHFitter,0.68598,0.66298,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.201,CoxPHFitter,0.6849,0.66022,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.30100000000000005,CoxPHFitter,0.68401,0.64917,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.401,CoxPHFitter,0.68365,0.63812,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.501,CoxPHFitter,0.68234,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.6010000000000001,CoxPHFitter,0.68087,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.7010000000000001,CoxPHFitter,0.679,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.801,CoxPHFitter,0.67814,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.101,0.901,CoxPHFitter,0.67696,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.001,CoxPHFitter,0.68447,0.66298,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.101,CoxPHFitter,0.68555,0.65193,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.201,CoxPHFitter,0.68483,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.30100000000000005,CoxPHFitter,0.68174,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.401,CoxPHFitter,0.67794,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.501,CoxPHFitter,0.6767,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.6010000000000001,CoxPHFitter,0.67367,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.7010000000000001,CoxPHFitter,0.67334,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.801,CoxPHFitter,0.67199,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.201,0.901,CoxPHFitter,0.66722,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.001,CoxPHFitter,0.68517,0.66298,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.101,CoxPHFitter,0.685,0.64641,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.201,CoxPHFitter,0.68238,0.63812,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.67806,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.401,CoxPHFitter,0.67375,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.501,CoxPHFitter,0.67269,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.66724,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.67996,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.801,CoxPHFitter,0.67806,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.30100000000000005,0.901,CoxPHFitter,0.67744,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.001,CoxPHFitter,0.6844,0.66298,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.101,CoxPHFitter,0.68464,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.201,CoxPHFitter,0.6795,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.30100000000000005,CoxPHFitter,0.67375,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.401,CoxPHFitter,0.67204,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.501,CoxPHFitter,0.66045,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.6010000000000001,CoxPHFitter,0.67814,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.7010000000000001,CoxPHFitter,0.67701,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.801,CoxPHFitter,0.67586,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.401,0.901,CoxPHFitter,0.6759,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.001,CoxPHFitter,0.68409,0.66298,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.101,CoxPHFitter,0.68421,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.201,CoxPHFitter,0.67833,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.30100000000000005,CoxPHFitter,0.67336,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.401,CoxPHFitter,0.66052,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.501,CoxPHFitter,0.6777,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.6010000000000001,CoxPHFitter,0.67619,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.7010000000000001,CoxPHFitter,0.67593,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.801,CoxPHFitter,0.67569,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.501,0.901,CoxPHFitter,0.67566,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.001,CoxPHFitter,0.68389,0.66022,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.101,CoxPHFitter,0.68344,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.201,CoxPHFitter,0.67475,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.66782,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.401,CoxPHFitter,0.67814,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.501,CoxPHFitter,0.67619,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.6759,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.67569,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.801,CoxPHFitter,0.67562,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.6010000000000001,0.901,CoxPHFitter,0.67566,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.001,CoxPHFitter,0.68382,0.65746,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.101,CoxPHFitter,0.68202,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.201,CoxPHFitter,0.67365,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.67972,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.401,CoxPHFitter,0.67701,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.501,CoxPHFitter,0.67593,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.67569,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.67564,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.801,CoxPHFitter,0.67559,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.7010000000000001,0.901,CoxPHFitter,0.67552,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.001,CoxPHFitter,0.68341,0.65746,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.101,CoxPHFitter,0.68097,0.63812,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.201,CoxPHFitter,0.67269,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.30100000000000005,CoxPHFitter,0.67806,0.62983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.401,CoxPHFitter,0.67586,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.501,CoxPHFitter,0.67569,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.6010000000000001,CoxPHFitter,0.67562,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.7010000000000001,CoxPHFitter,0.67559,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.801,CoxPHFitter,0.67547,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.801,0.901,CoxPHFitter,0.67523,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.001,CoxPHFitter,0.68272,0.66022,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.101,CoxPHFitter,0.6801,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.201,CoxPHFitter,0.66784,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.30100000000000005,CoxPHFitter,0.67744,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.401,CoxPHFitter,0.6759,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.501,CoxPHFitter,0.67566,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.6010000000000001,CoxPHFitter,0.67566,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.7010000000000001,CoxPHFitter,0.67552,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.801,CoxPHFitter,0.67523,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,0.901,0.901,CoxPHFitter,0.6754,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.001,CoxPHFitter,0.68253,0.65746,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.101,CoxPHFitter,0.67914,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.201,CoxPHFitter,0.66048,0.63536,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.30100000000000005,CoxPHFitter,0.67622,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.401,CoxPHFitter,0.67566,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.501,CoxPHFitter,0.67552,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.6010000000000001,CoxPHFitter,0.67562,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.7010000000000001,CoxPHFitter,0.67526,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.801,CoxPHFitter,0.67533,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,rhuh,1.001,0.901,CoxPHFitter,0.67526,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.001,CoxPHFitter,0.68706,0.6422,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.101,CoxPHFitter,0.68706,0.6422,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.201,CoxPHFitter,0.68697,0.64267,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.30100000000000005,CoxPHFitter,0.68701,0.64244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.401,CoxPHFitter,0.68699,0.64244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.501,CoxPHFitter,0.68704,0.64244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.6010000000000001,CoxPHFitter,0.68704,0.6422,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.7010000000000001,CoxPHFitter,0.68699,0.6422,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.801,CoxPHFitter,0.68713,0.6422,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.001,0.901,CoxPHFitter,0.68713,0.64267,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.001,CoxPHFitter,0.68629,0.64432,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.101,CoxPHFitter,0.68598,0.64455,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.201,CoxPHFitter,0.6849,0.6462,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.30100000000000005,CoxPHFitter,0.68401,0.6462,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.401,CoxPHFitter,0.68365,0.64526,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.501,CoxPHFitter,0.68234,0.64479,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.6010000000000001,CoxPHFitter,0.68087,0.64173,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.7010000000000001,CoxPHFitter,0.679,0.63985,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.801,CoxPHFitter,0.67814,0.63632,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.101,0.901,CoxPHFitter,0.67696,0.63656,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.001,CoxPHFitter,0.68447,0.64432,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.101,CoxPHFitter,0.68555,0.64996,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.201,CoxPHFitter,0.68483,0.64926,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.30100000000000005,CoxPHFitter,0.68174,0.64314,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.401,CoxPHFitter,0.67794,0.63703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.501,CoxPHFitter,0.6767,0.63609,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.6010000000000001,CoxPHFitter,0.67367,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.7010000000000001,CoxPHFitter,0.67334,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.801,CoxPHFitter,0.67199,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.201,0.901,CoxPHFitter,0.66722,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.001,CoxPHFitter,0.68517,0.64808,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.101,CoxPHFitter,0.685,0.65255,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.201,CoxPHFitter,0.68238,0.64761,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.67806,0.63562,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.401,CoxPHFitter,0.67375,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.501,CoxPHFitter,0.67269,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.66724,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.67996,0.65467,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.801,CoxPHFitter,0.67806,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.30100000000000005,0.901,CoxPHFitter,0.67744,0.6542,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.001,CoxPHFitter,0.6844,0.64855,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.101,CoxPHFitter,0.68464,0.65538,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.201,CoxPHFitter,0.6795,0.63891,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.30100000000000005,CoxPHFitter,0.67375,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.401,CoxPHFitter,0.67204,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.501,CoxPHFitter,0.66045,0.6582,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.6010000000000001,CoxPHFitter,0.67814,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.7010000000000001,CoxPHFitter,0.67701,0.65396,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.801,CoxPHFitter,0.67586,0.65279,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.401,0.901,CoxPHFitter,0.6759,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.001,CoxPHFitter,0.68409,0.64832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.101,CoxPHFitter,0.68421,0.65349,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.201,CoxPHFitter,0.67833,0.63585,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.30100000000000005,CoxPHFitter,0.67336,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.401,CoxPHFitter,0.66052,0.6582,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.501,CoxPHFitter,0.6777,0.65349,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.6010000000000001,CoxPHFitter,0.67619,0.65349,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.7010000000000001,CoxPHFitter,0.67593,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.801,CoxPHFitter,0.67569,0.65091,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.501,0.901,CoxPHFitter,0.67566,0.65161,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.001,CoxPHFitter,0.68389,0.64973,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.101,CoxPHFitter,0.68344,0.65138,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.201,CoxPHFitter,0.67475,0.63256,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.66782,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.401,CoxPHFitter,0.67814,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.501,CoxPHFitter,0.67619,0.65349,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.6759,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.67569,0.65091,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.801,CoxPHFitter,0.67562,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.6010000000000001,0.901,CoxPHFitter,0.67566,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.001,CoxPHFitter,0.68382,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.101,CoxPHFitter,0.68202,0.64996,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.201,CoxPHFitter,0.67365,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.67972,0.65467,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.401,CoxPHFitter,0.67701,0.65396,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.501,CoxPHFitter,0.67593,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.67569,0.65091,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.67564,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.801,CoxPHFitter,0.67559,0.65161,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.7010000000000001,0.901,CoxPHFitter,0.67552,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.001,CoxPHFitter,0.68341,0.65279,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.101,CoxPHFitter,0.68097,0.64455,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.201,CoxPHFitter,0.67269,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.30100000000000005,CoxPHFitter,0.67806,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.401,CoxPHFitter,0.67586,0.65279,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.501,CoxPHFitter,0.67569,0.65091,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.6010000000000001,CoxPHFitter,0.67562,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.7010000000000001,CoxPHFitter,0.67559,0.65161,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.801,CoxPHFitter,0.67547,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.801,0.901,CoxPHFitter,0.67523,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.001,CoxPHFitter,0.68272,0.65302,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.101,CoxPHFitter,0.6801,0.63985,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.201,CoxPHFitter,0.66784,0.63303,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.30100000000000005,CoxPHFitter,0.67744,0.6542,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.401,CoxPHFitter,0.6759,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.501,CoxPHFitter,0.67566,0.65161,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.6010000000000001,CoxPHFitter,0.67566,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.7010000000000001,CoxPHFitter,0.67552,0.65208,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.801,CoxPHFitter,0.67523,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,0.901,0.901,CoxPHFitter,0.6754,0.65232,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.001,CoxPHFitter,0.68253,0.65373,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.101,CoxPHFitter,0.67914,0.64008,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.201,CoxPHFitter,0.66048,0.65702,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.30100000000000005,CoxPHFitter,0.67622,0.65349,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.401,CoxPHFitter,0.67566,0.65091,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.501,CoxPHFitter,0.67552,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.6010000000000001,CoxPHFitter,0.67562,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.7010000000000001,CoxPHFitter,0.67526,0.65185,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.801,CoxPHFitter,0.67533,0.65232,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,ucsf,tcga,1.001,0.901,CoxPHFitter,0.67526,0.65232,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,upenn,ucsf,0.001,0.001,CoxPHFitter,0.66314,0.65863,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,upenn,ucsf,0.001,0.101,CoxPHFitter,0.66309,0.65863,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,upenn,ucsf,0.001,0.201,CoxPHFitter,0.66302,0.65875,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
@@ -259,193 +439,553 @@ PCA,upenn,ucsf,1.001,0.6010000000000001,CoxPHFitter,0.64745,0.66854,"sex, age, v
 PCA,upenn,ucsf,1.001,0.7010000000000001,CoxPHFitter,0.64721,0.66839,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,upenn,ucsf,1.001,0.801,CoxPHFitter,0.64715,0.66835,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
 PCA,upenn,ucsf,1.001,0.901,CoxPHFitter,0.64706,0.6683,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.001,CoxPHFitter,0.65308,0.66441,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.101,CoxPHFitter,0.64948,0.66967,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.201,CoxPHFitter,0.60183,0.63711,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.30100000000000005,CoxPHFitter,0.64877,0.66986,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.401,CoxPHFitter,0.64775,0.6694,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.501,CoxPHFitter,0.64759,0.66863,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.6010000000000001,CoxPHFitter,0.6473,0.66832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.7010000000000001,CoxPHFitter,0.64715,0.66835,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.801,CoxPHFitter,0.64713,0.6683,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.101,0.901,CoxPHFitter,0.64701,0.66837,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.001,CoxPHFitter,0.65278,0.6646,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.101,CoxPHFitter,0.64837,0.67101,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.201,CoxPHFitter,0.65183,0.67684,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.30100000000000005,CoxPHFitter,0.64855,0.66962,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.401,CoxPHFitter,0.64763,0.66923,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.501,CoxPHFitter,0.64746,0.66854,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.6010000000000001,CoxPHFitter,0.6472,0.66837,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.7010000000000001,CoxPHFitter,0.64716,0.66832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.801,CoxPHFitter,0.64702,0.66837,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.201,0.901,CoxPHFitter,0.64695,0.66842,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.001,CoxPHFitter,0.6526,0.66499,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.101,CoxPHFitter,0.64712,0.67209,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.201,CoxPHFitter,0.65028,0.67389,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.30100000000000005,CoxPHFitter,0.64818,0.6695,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.401,CoxPHFitter,0.64759,0.66887,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.501,CoxPHFitter,0.64733,0.66835,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.6010000000000001,CoxPHFitter,0.64714,0.66835,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.7010000000000001,CoxPHFitter,0.64704,0.66832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.801,CoxPHFitter,0.64695,0.66847,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.301,0.901,CoxPHFitter,0.64694,0.66842,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.001,CoxPHFitter,0.65229,0.66508,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.101,CoxPHFitter,0.64453,0.67427,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.201,CoxPHFitter,0.64964,0.67209,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.30100000000000005,CoxPHFitter,0.64772,0.66933,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.401,CoxPHFitter,0.64757,0.66866,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.501,CoxPHFitter,0.64721,0.66839,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.6010000000000001,CoxPHFitter,0.64716,0.66832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.7010000000000001,CoxPHFitter,0.64701,0.66837,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.801,CoxPHFitter,0.64694,0.66842,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,upenn,ucsf,1.401,0.901,CoxPHFitter,0.64691,0.66839,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.001,CoxPHFitter,0.66237,0.66237,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.101,CoxPHFitter,0.66242,0.66242,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.201,CoxPHFitter,0.66246,0.66246,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.30100000000000005,CoxPHFitter,0.66244,0.66244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.401,CoxPHFitter,0.66241,0.66241,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.501,CoxPHFitter,0.66241,0.66241,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.6010000000000001,CoxPHFitter,0.66242,0.66242,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.7010000000000001,CoxPHFitter,0.66243,0.66243,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.801,CoxPHFitter,0.66246,0.66246,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.001,0.901,CoxPHFitter,0.66249,0.66249,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.001,CoxPHFitter,0.66022,0.66022,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.101,CoxPHFitter,0.65933,0.65933,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.201,CoxPHFitter,0.65745,0.65745,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.30100000000000005,CoxPHFitter,0.65755,0.65755,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.401,CoxPHFitter,0.65766,0.65766,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.501,CoxPHFitter,0.6577,0.6577,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.6010000000000001,CoxPHFitter,0.65759,0.65759,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.7010000000000001,CoxPHFitter,0.65706,0.65706,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.801,CoxPHFitter,0.65601,0.65601,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.101,0.901,CoxPHFitter,0.655,0.655,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.001,CoxPHFitter,0.65926,0.65926,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.101,CoxPHFitter,0.65763,0.65763,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.201,CoxPHFitter,0.65793,0.65793,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.30100000000000005,CoxPHFitter,0.65803,0.65803,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.401,CoxPHFitter,0.65667,0.65667,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.501,CoxPHFitter,0.65432,0.65432,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.6010000000000001,CoxPHFitter,0.64832,0.64832,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.7010000000000001,CoxPHFitter,0.64211,0.64211,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.801,CoxPHFitter,0.64245,0.64245,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.201,0.901,CoxPHFitter,0.63524,0.63524,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.001,CoxPHFitter,0.65892,0.65892,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.101,CoxPHFitter,0.65795,0.65795,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.201,CoxPHFitter,0.65815,0.65815,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.65614,0.65614,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.401,CoxPHFitter,0.64848,0.64848,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.501,CoxPHFitter,0.6426,0.6426,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.63525,0.63525,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.61279,0.61279,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.801,CoxPHFitter,0.65716,0.65716,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.30100000000000005,0.901,CoxPHFitter,0.65578,0.65578,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.001,CoxPHFitter,0.65849,0.65849,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.101,CoxPHFitter,0.65837,0.65837,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.201,CoxPHFitter,0.65779,0.65779,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.30100000000000005,CoxPHFitter,0.64876,0.64876,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.401,CoxPHFitter,0.64238,0.64238,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.501,CoxPHFitter,0.61277,0.61277,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.6010000000000001,CoxPHFitter,0.65718,0.65718,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.7010000000000001,CoxPHFitter,0.65549,0.65549,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.801,CoxPHFitter,0.65454,0.65454,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.401,0.901,CoxPHFitter,0.65413,0.65413,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.001,CoxPHFitter,0.65826,0.65826,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.101,CoxPHFitter,0.65834,0.65834,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.201,CoxPHFitter,0.65503,0.65503,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.30100000000000005,CoxPHFitter,0.64244,0.64244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.401,CoxPHFitter,0.61277,0.61277,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.501,CoxPHFitter,0.65647,0.65647,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.6010000000000001,CoxPHFitter,0.65489,0.65489,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.7010000000000001,CoxPHFitter,0.6543,0.6543,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.801,CoxPHFitter,0.65391,0.65391,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.501,0.901,CoxPHFitter,0.65369,0.65369,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.001,CoxPHFitter,0.65821,0.65821,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.101,CoxPHFitter,0.65862,0.65862,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.201,CoxPHFitter,0.6493,0.6493,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.63485,0.63485,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.401,CoxPHFitter,0.65718,0.65718,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.501,CoxPHFitter,0.65489,0.65489,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.65414,0.65414,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.65381,0.65381,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.801,CoxPHFitter,0.65362,0.65362,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.6010000000000001,0.901,CoxPHFitter,0.65337,0.65337,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.001,CoxPHFitter,0.65793,0.65793,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.101,CoxPHFitter,0.65892,0.65892,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.201,CoxPHFitter,0.64237,0.64237,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.61279,0.61279,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.401,CoxPHFitter,0.65549,0.65549,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.501,CoxPHFitter,0.6543,0.6543,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.65381,0.65381,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.65358,0.65358,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.801,CoxPHFitter,0.65332,0.65332,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.7010000000000001,0.901,CoxPHFitter,0.65322,0.65322,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.001,CoxPHFitter,0.65774,0.65774,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.101,CoxPHFitter,0.6587,0.6587,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.201,CoxPHFitter,0.64187,0.64187,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.30100000000000005,CoxPHFitter,0.65716,0.65716,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.401,CoxPHFitter,0.65454,0.65454,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.501,CoxPHFitter,0.65391,0.65391,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.6010000000000001,CoxPHFitter,0.65362,0.65362,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.7010000000000001,CoxPHFitter,0.65332,0.65332,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.801,CoxPHFitter,0.6532,0.6532,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.801,0.901,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.001,CoxPHFitter,0.65765,0.65765,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.101,CoxPHFitter,0.65793,0.65793,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.201,CoxPHFitter,0.6344,0.6344,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.30100000000000005,CoxPHFitter,0.65578,0.65578,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.401,CoxPHFitter,0.65413,0.65413,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.501,CoxPHFitter,0.65369,0.65369,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.6010000000000001,CoxPHFitter,0.65337,0.65337,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.7010000000000001,CoxPHFitter,0.65322,0.65322,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.801,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,0.901,0.901,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.001,CoxPHFitter,0.65757,0.65757,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.101,CoxPHFitter,0.65623,0.65623,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.201,CoxPHFitter,0.61277,0.61277,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.30100000000000005,CoxPHFitter,0.65489,0.65489,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.401,CoxPHFitter,0.65391,0.65391,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.501,CoxPHFitter,0.65356,0.65356,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.6010000000000001,CoxPHFitter,0.65326,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.7010000000000001,CoxPHFitter,0.65313,0.65313,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.801,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.001,0.901,CoxPHFitter,0.65311,0.65311,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.001,CoxPHFitter,0.65762,0.65762,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.101,CoxPHFitter,0.65355,0.65355,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.201,CoxPHFitter,0.65779,0.65779,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.30100000000000005,CoxPHFitter,0.65453,0.65453,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.401,CoxPHFitter,0.65378,0.65378,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.501,CoxPHFitter,0.65334,0.65334,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.6010000000000001,CoxPHFitter,0.65318,0.65318,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.7010000000000001,CoxPHFitter,0.65313,0.65313,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.801,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.101,0.901,CoxPHFitter,0.65302,0.65302,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.001,CoxPHFitter,0.65749,0.65749,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.101,CoxPHFitter,0.64983,0.64983,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.201,CoxPHFitter,0.65719,0.65719,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.30100000000000005,CoxPHFitter,0.65413,0.65413,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.401,CoxPHFitter,0.65362,0.65362,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.501,CoxPHFitter,0.65326,0.65326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.6010000000000001,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.7010000000000001,CoxPHFitter,0.65308,0.65308,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.801,CoxPHFitter,0.65302,0.65302,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.201,0.901,CoxPHFitter,0.65299,0.65299,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.001,CoxPHFitter,0.65747,0.65747,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.101,CoxPHFitter,0.64525,0.64525,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.201,CoxPHFitter,0.65606,0.65606,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.30100000000000005,CoxPHFitter,0.65394,0.65394,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.401,CoxPHFitter,0.65344,0.65344,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.501,CoxPHFitter,0.65318,0.65318,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.6010000000000001,CoxPHFitter,0.65312,0.65312,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.7010000000000001,CoxPHFitter,0.65309,0.65309,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.801,CoxPHFitter,0.65301,0.65301,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.301,0.901,CoxPHFitter,0.65296,0.65296,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.001,CoxPHFitter,0.65742,0.65742,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.101,CoxPHFitter,0.64243,0.64243,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.201,CoxPHFitter,0.6555,0.6555,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.30100000000000005,CoxPHFitter,0.65381,0.65381,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.401,CoxPHFitter,0.65331,0.65331,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.501,CoxPHFitter,0.65313,0.65313,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.6010000000000001,CoxPHFitter,0.65308,0.65308,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.7010000000000001,CoxPHFitter,0.65302,0.65302,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.801,CoxPHFitter,0.65299,0.65299,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
-PCA,ucsf+upenn,ucsf+upenn,1.401,0.901,CoxPHFitter,0.65295,0.65295,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.001,CoxPHFitter,0.66314,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.101,CoxPHFitter,0.66309,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.201,CoxPHFitter,0.66302,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.30100000000000005,CoxPHFitter,0.663,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.401,CoxPHFitter,0.66301,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.501,CoxPHFitter,0.66302,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.6010000000000001,CoxPHFitter,0.66303,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.7010000000000001,CoxPHFitter,0.66297,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.801,CoxPHFitter,0.66294,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.001,0.901,CoxPHFitter,0.66293,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.001,CoxPHFitter,0.65967,0.60773,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.101,CoxPHFitter,0.65845,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.201,CoxPHFitter,0.65625,0.6105,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.30100000000000005,CoxPHFitter,0.65374,0.61326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.401,CoxPHFitter,0.6503,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.501,CoxPHFitter,0.64975,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.6010000000000001,CoxPHFitter,0.6495,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.7010000000000001,CoxPHFitter,0.649,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.801,CoxPHFitter,0.64834,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.101,0.901,CoxPHFitter,0.64804,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.001,CoxPHFitter,0.65705,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.101,CoxPHFitter,0.65446,0.6105,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.201,CoxPHFitter,0.65046,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.30100000000000005,CoxPHFitter,0.64994,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.401,CoxPHFitter,0.6491,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.501,CoxPHFitter,0.64801,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.6010000000000001,CoxPHFitter,0.64679,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.7010000000000001,CoxPHFitter,0.64177,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.801,CoxPHFitter,0.63728,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.201,0.901,CoxPHFitter,0.61744,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.001,CoxPHFitter,0.65583,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.101,CoxPHFitter,0.6522,0.59945,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.201,CoxPHFitter,0.65029,0.59392,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.64889,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.401,CoxPHFitter,0.6469,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.501,CoxPHFitter,0.64034,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.61734,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.60183,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.801,CoxPHFitter,0.65188,0.61602,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.30100000000000005,0.901,CoxPHFitter,0.65006,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.001,CoxPHFitter,0.65524,0.60773,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.101,CoxPHFitter,0.65069,0.59945,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.201,CoxPHFitter,0.65022,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.30100000000000005,CoxPHFitter,0.64721,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.401,CoxPHFitter,0.63759,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.501,CoxPHFitter,0.60183,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.6010000000000001,CoxPHFitter,0.65194,0.61602,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.7010000000000001,CoxPHFitter,0.64963,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.801,CoxPHFitter,0.64874,0.63812,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.401,0.901,CoxPHFitter,0.64856,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.001,CoxPHFitter,0.65464,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.101,CoxPHFitter,0.65091,0.59945,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.201,CoxPHFitter,0.64905,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.30100000000000005,CoxPHFitter,0.6404,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.401,CoxPHFitter,0.60183,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.501,CoxPHFitter,0.65145,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.6010000000000001,CoxPHFitter,0.64924,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.7010000000000001,CoxPHFitter,0.64864,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.801,CoxPHFitter,0.64808,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.501,0.901,CoxPHFitter,0.64774,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.001,CoxPHFitter,0.6541,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.101,CoxPHFitter,0.65105,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.201,CoxPHFitter,0.64776,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.61628,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.401,CoxPHFitter,0.65194,0.61602,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.501,CoxPHFitter,0.64924,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.64856,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.64773,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.801,CoxPHFitter,0.64763,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.6010000000000001,0.901,CoxPHFitter,0.64756,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.001,CoxPHFitter,0.65407,0.60497,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.101,CoxPHFitter,0.65103,0.59392,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.201,CoxPHFitter,0.64335,0.61878,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.60183,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.401,CoxPHFitter,0.64963,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.501,CoxPHFitter,0.64864,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.64773,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.6476,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.801,CoxPHFitter,0.64758,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.7010000000000001,0.901,CoxPHFitter,0.64743,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.001,CoxPHFitter,0.6538,0.59945,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.101,CoxPHFitter,0.65096,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.201,CoxPHFitter,0.63759,0.62431,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.30100000000000005,CoxPHFitter,0.65178,0.61602,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.401,CoxPHFitter,0.64874,0.63812,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.501,CoxPHFitter,0.64808,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.6010000000000001,CoxPHFitter,0.64763,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.7010000000000001,CoxPHFitter,0.64758,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.801,CoxPHFitter,0.64735,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.801,0.901,CoxPHFitter,0.64721,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.001,CoxPHFitter,0.65364,0.59669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.101,CoxPHFitter,0.65079,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.201,CoxPHFitter,0.61554,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.30100000000000005,CoxPHFitter,0.65006,0.62707,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.401,CoxPHFitter,0.64856,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.501,CoxPHFitter,0.64774,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.6010000000000001,CoxPHFitter,0.64756,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.7010000000000001,CoxPHFitter,0.64743,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.801,CoxPHFitter,0.64721,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,0.901,0.901,CoxPHFitter,0.64716,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.001,CoxPHFitter,0.65352,0.59945,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.101,CoxPHFitter,0.65037,0.60221,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.201,CoxPHFitter,0.60183,0.62155,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.30100000000000005,CoxPHFitter,0.64925,0.6326,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.401,CoxPHFitter,0.64806,0.64088,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.501,CoxPHFitter,0.64759,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.6010000000000001,CoxPHFitter,0.64745,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.7010000000000001,CoxPHFitter,0.64721,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.801,CoxPHFitter,0.64715,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,rhuh,1.001,0.901,CoxPHFitter,0.64706,0.64365,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.001,CoxPHFitter,0.66314,0.58904,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.101,CoxPHFitter,0.66309,0.58927,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.201,CoxPHFitter,0.66302,0.58927,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.30100000000000005,CoxPHFitter,0.663,0.5888,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.401,CoxPHFitter,0.66301,0.58904,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.501,CoxPHFitter,0.66302,0.58904,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.6010000000000001,CoxPHFitter,0.66303,0.5888,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.7010000000000001,CoxPHFitter,0.66297,0.5888,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.801,CoxPHFitter,0.66294,0.5888,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.001,0.901,CoxPHFitter,0.66293,0.58904,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.001,CoxPHFitter,0.65967,0.58574,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.101,CoxPHFitter,0.65845,0.58857,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.201,CoxPHFitter,0.65625,0.59116,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.30100000000000005,CoxPHFitter,0.65374,0.59398,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.401,CoxPHFitter,0.6503,0.59163,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.501,CoxPHFitter,0.64975,0.59068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.6010000000000001,CoxPHFitter,0.6495,0.59092,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.7010000000000001,CoxPHFitter,0.649,0.59021,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.801,CoxPHFitter,0.64834,0.58786,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.101,0.901,CoxPHFitter,0.64804,0.58669,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.001,CoxPHFitter,0.65705,0.59068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.101,CoxPHFitter,0.65446,0.59327,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.201,CoxPHFitter,0.65046,0.59374,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.30100000000000005,CoxPHFitter,0.64994,0.59163,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.401,CoxPHFitter,0.6491,0.59139,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.501,CoxPHFitter,0.64801,0.59163,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.6010000000000001,CoxPHFitter,0.64679,0.59186,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.7010000000000001,CoxPHFitter,0.64177,0.5961,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.801,CoxPHFitter,0.63728,0.60198,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.201,0.901,CoxPHFitter,0.61744,0.62315,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.001,CoxPHFitter,0.65583,0.58927,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.101,CoxPHFitter,0.6522,0.59515,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.201,CoxPHFitter,0.65029,0.59398,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.64889,0.59233,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.401,CoxPHFitter,0.6469,0.59304,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.501,CoxPHFitter,0.64034,0.60056,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.61734,0.62244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.60183,0.63068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.801,CoxPHFitter,0.65188,0.62738,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.30100000000000005,0.901,CoxPHFitter,0.65006,0.61938,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.001,CoxPHFitter,0.65524,0.5928,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.101,CoxPHFitter,0.65069,0.59704,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.201,CoxPHFitter,0.65022,0.59468,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.30100000000000005,CoxPHFitter,0.64721,0.59539,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.401,CoxPHFitter,0.63759,0.60198,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.501,CoxPHFitter,0.60183,0.63068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.6010000000000001,CoxPHFitter,0.65194,0.62738,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.7010000000000001,CoxPHFitter,0.64963,0.61868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.801,CoxPHFitter,0.64874,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.401,0.901,CoxPHFitter,0.64856,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.001,CoxPHFitter,0.65464,0.59468,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.101,CoxPHFitter,0.65091,0.59868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.201,CoxPHFitter,0.64905,0.59421,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.30100000000000005,CoxPHFitter,0.6404,0.60056,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.401,CoxPHFitter,0.60183,0.63068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.501,CoxPHFitter,0.65145,0.62268,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.6010000000000001,CoxPHFitter,0.64924,0.61868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.7010000000000001,CoxPHFitter,0.64864,0.61609,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.801,CoxPHFitter,0.64808,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.501,0.901,CoxPHFitter,0.64774,0.61774,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.001,CoxPHFitter,0.6541,0.59398,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.101,CoxPHFitter,0.65105,0.59915,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.201,CoxPHFitter,0.64776,0.59704,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.61628,0.62244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.401,CoxPHFitter,0.65194,0.62738,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.501,CoxPHFitter,0.64924,0.61868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.64856,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.64773,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.801,CoxPHFitter,0.64763,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.6010000000000001,0.901,CoxPHFitter,0.64756,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.001,CoxPHFitter,0.65407,0.59351,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.101,CoxPHFitter,0.65103,0.59939,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.201,CoxPHFitter,0.64335,0.59704,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.60183,0.63068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.401,CoxPHFitter,0.64963,0.61868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.501,CoxPHFitter,0.64864,0.61609,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.64773,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.6476,0.61727,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.801,CoxPHFitter,0.64758,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.7010000000000001,0.901,CoxPHFitter,0.64743,0.61633,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.001,CoxPHFitter,0.6538,0.59327,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.101,CoxPHFitter,0.65096,0.59798,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.201,CoxPHFitter,0.63759,0.60762,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.30100000000000005,CoxPHFitter,0.65178,0.62691,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.401,CoxPHFitter,0.64874,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.501,CoxPHFitter,0.64808,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.6010000000000001,CoxPHFitter,0.64763,0.6175,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.7010000000000001,CoxPHFitter,0.64758,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.801,CoxPHFitter,0.64735,0.61633,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.801,0.901,CoxPHFitter,0.64721,0.61562,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.001,CoxPHFitter,0.65364,0.59727,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.101,CoxPHFitter,0.65079,0.59915,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.201,CoxPHFitter,0.61554,0.62244,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.30100000000000005,CoxPHFitter,0.65006,0.61938,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.401,CoxPHFitter,0.64856,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.501,CoxPHFitter,0.64774,0.61774,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.6010000000000001,CoxPHFitter,0.64756,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.7010000000000001,CoxPHFitter,0.64743,0.61633,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.801,CoxPHFitter,0.64721,0.61562,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,0.901,0.901,CoxPHFitter,0.64716,0.61538,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.001,CoxPHFitter,0.65352,0.59798,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.101,CoxPHFitter,0.65037,0.59915,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.201,CoxPHFitter,0.60183,0.63068,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.30100000000000005,CoxPHFitter,0.64925,0.61868,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.401,CoxPHFitter,0.64806,0.61703,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.501,CoxPHFitter,0.64759,0.61727,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.6010000000000001,CoxPHFitter,0.64745,0.61656,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.7010000000000001,CoxPHFitter,0.64721,0.61633,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.801,CoxPHFitter,0.64715,0.61538,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,upenn,tcga,1.001,0.901,CoxPHFitter,0.64706,0.61491,"sex, age, volume, ltdi, tdi, EOR, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.001,CoxPHFitter,0.66008,0.63202,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.101,CoxPHFitter,0.66008,0.63197,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.201,CoxPHFitter,0.66032,0.63204,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.30100000000000005,CoxPHFitter,0.66032,0.63195,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.401,CoxPHFitter,0.66079,0.63195,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.501,CoxPHFitter,0.66079,0.6319,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.6010000000000001,CoxPHFitter,0.66079,0.63192,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.7010000000000001,CoxPHFitter,0.66102,0.63207,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.801,CoxPHFitter,0.66102,0.63202,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.001,0.901,CoxPHFitter,0.66102,0.63216,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.001,CoxPHFitter,0.66337,0.63015,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.101,CoxPHFitter,0.66173,0.62964,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.201,CoxPHFitter,0.66079,0.63178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.30100000000000005,CoxPHFitter,0.66196,0.63327,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.401,CoxPHFitter,0.66408,0.63389,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.501,CoxPHFitter,0.66243,0.63499,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.6010000000000001,CoxPHFitter,0.66126,0.63667,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.7010000000000001,CoxPHFitter,0.65984,0.63842,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.801,CoxPHFitter,0.65984,0.64042,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.101,0.901,CoxPHFitter,0.65655,0.6421,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.001,CoxPHFitter,0.66455,0.62765,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.101,CoxPHFitter,0.66431,0.6306,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.201,CoxPHFitter,0.66384,0.63384,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.30100000000000005,CoxPHFitter,0.66126,0.63651,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.401,CoxPHFitter,0.66008,0.64032,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.501,CoxPHFitter,0.65632,0.64392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.6010000000000001,CoxPHFitter,0.65726,0.64536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.7010000000000001,CoxPHFitter,0.65185,0.64531,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.801,CoxPHFitter,0.64667,0.64543,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.201,0.901,CoxPHFitter,0.63773,0.64056,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.001,CoxPHFitter,0.66431,0.62667,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.101,CoxPHFitter,0.66502,0.63043,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.201,CoxPHFitter,0.66149,0.63655,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.65632,0.64234,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.401,CoxPHFitter,0.65749,0.64536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.501,CoxPHFitter,0.64785,0.64529,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.63773,0.64061,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.63279,0.63487,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.801,CoxPHFitter,0.63256,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.30100000000000005,0.901,CoxPHFitter,0.63256,0.63483,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.001,CoxPHFitter,0.66526,0.62578,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.101,CoxPHFitter,0.66431,0.63163,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.201,CoxPHFitter,0.66055,0.63967,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.30100000000000005,CoxPHFitter,0.65726,0.64543,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.401,CoxPHFitter,0.64667,0.64538,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.501,CoxPHFitter,0.63279,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.6010000000000001,CoxPHFitter,0.63256,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.7010000000000001,CoxPHFitter,0.66102,0.62864,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.801,CoxPHFitter,0.65937,0.62,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.401,0.901,CoxPHFitter,0.65796,0.61726,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.001,CoxPHFitter,0.66596,0.6242,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.101,CoxPHFitter,0.66361,0.63298,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.201,CoxPHFitter,0.65608,0.64402,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.30100000000000005,CoxPHFitter,0.64785,0.64529,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.401,CoxPHFitter,0.63279,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.501,CoxPHFitter,0.63256,0.6349,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.6010000000000001,CoxPHFitter,0.66079,0.62268,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.7010000000000001,CoxPHFitter,0.65867,0.61724,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.801,CoxPHFitter,0.65655,0.61616,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.501,0.901,CoxPHFitter,0.65585,0.61501,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.001,CoxPHFitter,0.66714,0.6229,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.101,CoxPHFitter,0.66149,0.63456,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.201,CoxPHFitter,0.65726,0.64534,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.63797,0.64063,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.401,CoxPHFitter,0.63256,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.501,CoxPHFitter,0.66079,0.62268,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.65796,0.61724,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.65679,0.61561,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.801,CoxPHFitter,0.65632,0.61469,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.6010000000000001,0.901,CoxPHFitter,0.65655,0.61438,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.001,CoxPHFitter,0.6662,0.62276,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.101,CoxPHFitter,0.66173,0.63591,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.201,CoxPHFitter,0.65161,0.64536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.63279,0.63497,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.401,CoxPHFitter,0.66126,0.62859,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.501,CoxPHFitter,0.65867,0.61724,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.65679,0.61561,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.65655,0.61445,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.801,CoxPHFitter,0.65585,0.61402,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.7010000000000001,0.901,CoxPHFitter,0.65608,0.61361,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.001,CoxPHFitter,0.66573,0.62244,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.101,CoxPHFitter,0.66196,0.63771,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.201,CoxPHFitter,0.64667,0.64548,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.30100000000000005,CoxPHFitter,0.63256,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.401,CoxPHFitter,0.65937,0.62,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.501,CoxPHFitter,0.65655,0.61616,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.6010000000000001,CoxPHFitter,0.65632,0.61469,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.7010000000000001,CoxPHFitter,0.65585,0.61402,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.801,CoxPHFitter,0.65608,0.61366,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.801,0.901,CoxPHFitter,0.65655,0.61373,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.001,CoxPHFitter,0.66384,0.62165,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.101,CoxPHFitter,0.65984,0.63919,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.201,CoxPHFitter,0.63773,0.64058,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.30100000000000005,CoxPHFitter,0.63256,0.63483,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.401,CoxPHFitter,0.65796,0.61726,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.501,CoxPHFitter,0.65585,0.61501,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.6010000000000001,CoxPHFitter,0.65655,0.61438,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.7010000000000001,CoxPHFitter,0.65608,0.61361,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.801,CoxPHFitter,0.65655,0.61373,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,0.901,0.901,CoxPHFitter,0.65632,0.61337,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.001,CoxPHFitter,0.66337,0.62134,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.101,CoxPHFitter,0.65749,0.64226,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.201,CoxPHFitter,0.63279,0.63492,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.30100000000000005,CoxPHFitter,0.66079,0.62259,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.401,CoxPHFitter,0.65655,0.61613,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.501,CoxPHFitter,0.65655,0.6145,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.6010000000000001,CoxPHFitter,0.65632,0.61378,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.7010000000000001,CoxPHFitter,0.65632,0.61376,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.801,CoxPHFitter,0.65632,0.61342,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,ucsf,1.001,0.901,CoxPHFitter,0.65655,0.61323,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.001,CoxPHFitter,0.66008,0.58222,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.101,CoxPHFitter,0.66008,0.58232,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.201,CoxPHFitter,0.66032,0.5824,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.30100000000000005,CoxPHFitter,0.66032,0.58236,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.401,CoxPHFitter,0.66079,0.58235,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.501,CoxPHFitter,0.66079,0.58231,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.6010000000000001,CoxPHFitter,0.66079,0.58232,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.7010000000000001,CoxPHFitter,0.66102,0.58229,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.801,CoxPHFitter,0.66102,0.58231,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.001,0.901,CoxPHFitter,0.66102,0.58234,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.001,CoxPHFitter,0.66337,0.58662,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.101,CoxPHFitter,0.66173,0.58778,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.201,CoxPHFitter,0.66079,0.59148,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.30100000000000005,CoxPHFitter,0.66196,0.59823,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.401,CoxPHFitter,0.66408,0.60457,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.501,CoxPHFitter,0.66243,0.6058,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.6010000000000001,CoxPHFitter,0.66126,0.60703,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.7010000000000001,CoxPHFitter,0.65984,0.60816,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.801,CoxPHFitter,0.65984,0.60959,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.101,0.901,CoxPHFitter,0.65655,0.61145,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.001,CoxPHFitter,0.66455,0.58645,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.101,CoxPHFitter,0.66431,0.59488,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.201,CoxPHFitter,0.66384,0.60453,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.30100000000000005,CoxPHFitter,0.66126,0.60686,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.401,CoxPHFitter,0.66008,0.60922,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.501,CoxPHFitter,0.65632,0.6126,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.6010000000000001,CoxPHFitter,0.65726,0.61371,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.7010000000000001,CoxPHFitter,0.65185,0.61395,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.801,CoxPHFitter,0.64667,0.61328,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.201,0.901,CoxPHFitter,0.63773,0.60769,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.001,CoxPHFitter,0.66431,0.58575,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.101,CoxPHFitter,0.66502,0.5995,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.201,CoxPHFitter,0.66149,0.60571,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.65632,0.61125,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.401,CoxPHFitter,0.65749,0.61362,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.501,CoxPHFitter,0.64785,0.61451,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.63773,0.60776,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.63279,0.60178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.801,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.30100000000000005,0.901,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.001,CoxPHFitter,0.66526,0.58559,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.101,CoxPHFitter,0.66431,0.59938,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.201,CoxPHFitter,0.66055,0.60856,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.30100000000000005,CoxPHFitter,0.65726,0.61357,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.401,CoxPHFitter,0.64667,0.61332,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.501,CoxPHFitter,0.63279,0.60178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.6010000000000001,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.7010000000000001,CoxPHFitter,0.66102,0.59292,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.801,CoxPHFitter,0.65937,0.58333,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.401,0.901,CoxPHFitter,0.65796,0.5806,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.001,CoxPHFitter,0.66596,0.58494,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.101,CoxPHFitter,0.66361,0.59972,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.201,CoxPHFitter,0.65608,0.6125,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.30100000000000005,CoxPHFitter,0.64785,0.6145,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.401,CoxPHFitter,0.63279,0.60178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.501,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.6010000000000001,CoxPHFitter,0.66079,0.58612,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.7010000000000001,CoxPHFitter,0.65867,0.5809,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.801,CoxPHFitter,0.65655,0.57927,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.501,0.901,CoxPHFitter,0.65585,0.57787,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.001,CoxPHFitter,0.66714,0.58466,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.101,CoxPHFitter,0.66149,0.60049,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.201,CoxPHFitter,0.65726,0.61359,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.63797,0.60772,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.401,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.501,CoxPHFitter,0.66079,0.58612,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.65796,0.5806,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.65679,0.57865,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.801,CoxPHFitter,0.65632,0.57721,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.6010000000000001,0.901,CoxPHFitter,0.65655,0.57649,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.001,CoxPHFitter,0.6662,0.58424,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.101,CoxPHFitter,0.66173,0.60165,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.201,CoxPHFitter,0.65161,0.61397,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.63279,0.60178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.401,CoxPHFitter,0.66126,0.59296,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.501,CoxPHFitter,0.65867,0.5809,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.65679,0.57865,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.65655,0.57706,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.801,CoxPHFitter,0.65585,0.57641,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.7010000000000001,0.901,CoxPHFitter,0.65608,0.57617,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.001,CoxPHFitter,0.66573,0.58404,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.101,CoxPHFitter,0.66196,0.60258,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.201,CoxPHFitter,0.64667,0.61325,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.30100000000000005,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.401,CoxPHFitter,0.65937,0.58333,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.501,CoxPHFitter,0.65655,0.57927,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.6010000000000001,CoxPHFitter,0.65632,0.57721,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.7010000000000001,CoxPHFitter,0.65585,0.57641,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.801,CoxPHFitter,0.65608,0.57607,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.801,0.901,CoxPHFitter,0.65655,0.57568,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.001,CoxPHFitter,0.66384,0.58374,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.101,CoxPHFitter,0.65984,0.60478,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.201,CoxPHFitter,0.63773,0.6077,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.30100000000000005,CoxPHFitter,0.63256,0.60179,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.401,CoxPHFitter,0.65796,0.5806,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.501,CoxPHFitter,0.65585,0.57787,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.6010000000000001,CoxPHFitter,0.65655,0.57649,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.7010000000000001,CoxPHFitter,0.65608,0.57617,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.801,CoxPHFitter,0.65655,0.57568,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,0.901,0.901,CoxPHFitter,0.65632,0.57561,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.001,CoxPHFitter,0.66337,0.58359,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.101,CoxPHFitter,0.65749,0.60724,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.201,CoxPHFitter,0.63279,0.60178,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.30100000000000005,CoxPHFitter,0.66079,0.58606,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.401,CoxPHFitter,0.65655,0.57926,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.501,CoxPHFitter,0.65655,0.57698,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.6010000000000001,CoxPHFitter,0.65632,0.57619,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.7010000000000001,CoxPHFitter,0.65632,0.57579,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.801,CoxPHFitter,0.65632,0.5756,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,upenn,1.001,0.901,CoxPHFitter,0.65655,0.57547,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.001,CoxPHFitter,0.66008,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.101,CoxPHFitter,0.66008,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.201,CoxPHFitter,0.66032,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.30100000000000005,CoxPHFitter,0.66032,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.401,CoxPHFitter,0.66079,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.501,CoxPHFitter,0.66079,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.6010000000000001,CoxPHFitter,0.66079,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.7010000000000001,CoxPHFitter,0.66102,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.801,CoxPHFitter,0.66102,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.001,0.901,CoxPHFitter,0.66102,0.5884,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.001,CoxPHFitter,0.66337,0.56906,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.101,CoxPHFitter,0.66173,0.56906,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.201,CoxPHFitter,0.66079,0.57459,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.30100000000000005,CoxPHFitter,0.66196,0.59116,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.401,CoxPHFitter,0.66408,0.59392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.501,CoxPHFitter,0.66243,0.60221,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.6010000000000001,CoxPHFitter,0.66126,0.61602,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.7010000000000001,CoxPHFitter,0.65984,0.6105,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.801,CoxPHFitter,0.65984,0.62155,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.101,0.901,CoxPHFitter,0.65655,0.62983,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.001,CoxPHFitter,0.66455,0.56906,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.101,CoxPHFitter,0.66431,0.58287,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.201,CoxPHFitter,0.66384,0.59669,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.30100000000000005,CoxPHFitter,0.66126,0.61602,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.401,CoxPHFitter,0.66008,0.62155,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.501,CoxPHFitter,0.65632,0.6326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.6010000000000001,CoxPHFitter,0.65726,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.7010000000000001,CoxPHFitter,0.65185,0.6326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.801,CoxPHFitter,0.64667,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.201,0.901,CoxPHFitter,0.63773,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.001,CoxPHFitter,0.66431,0.56354,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.101,CoxPHFitter,0.66502,0.59392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.201,CoxPHFitter,0.66149,0.61878,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.30100000000000005,CoxPHFitter,0.65632,0.62983,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.401,CoxPHFitter,0.65749,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.501,CoxPHFitter,0.64785,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.6010000000000001,CoxPHFitter,0.63773,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.7010000000000001,CoxPHFitter,0.63279,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.801,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.30100000000000005,0.901,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.001,CoxPHFitter,0.66526,0.57182,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.101,CoxPHFitter,0.66431,0.59116,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.201,CoxPHFitter,0.66055,0.62155,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.30100000000000005,CoxPHFitter,0.65726,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.401,CoxPHFitter,0.64667,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.501,CoxPHFitter,0.63279,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.6010000000000001,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.7010000000000001,CoxPHFitter,0.66102,0.60773,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.801,CoxPHFitter,0.65937,0.58564,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.401,0.901,CoxPHFitter,0.65796,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.001,CoxPHFitter,0.66596,0.57182,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.101,CoxPHFitter,0.66361,0.59945,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.201,CoxPHFitter,0.65608,0.6326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.30100000000000005,CoxPHFitter,0.64785,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.401,CoxPHFitter,0.63279,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.501,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.6010000000000001,CoxPHFitter,0.66079,0.59392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.7010000000000001,CoxPHFitter,0.65867,0.58287,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.801,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.501,0.901,CoxPHFitter,0.65585,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.001,CoxPHFitter,0.66714,0.57182,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.101,CoxPHFitter,0.66149,0.60497,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.201,CoxPHFitter,0.65726,0.63536,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.30100000000000005,CoxPHFitter,0.63797,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.401,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.501,CoxPHFitter,0.66079,0.59392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.6010000000000001,CoxPHFitter,0.65796,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.7010000000000001,CoxPHFitter,0.65679,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.801,CoxPHFitter,0.65632,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.6010000000000001,0.901,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.001,CoxPHFitter,0.6662,0.56906,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.101,CoxPHFitter,0.66173,0.60497,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.201,CoxPHFitter,0.65161,0.6326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.30100000000000005,CoxPHFitter,0.63279,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.401,CoxPHFitter,0.66126,0.60773,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.501,CoxPHFitter,0.65867,0.58287,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.6010000000000001,CoxPHFitter,0.65679,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.7010000000000001,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.801,CoxPHFitter,0.65585,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.7010000000000001,0.901,CoxPHFitter,0.65608,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.001,CoxPHFitter,0.66573,0.56906,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.101,CoxPHFitter,0.66196,0.61326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.201,CoxPHFitter,0.64667,0.6326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.30100000000000005,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.401,CoxPHFitter,0.65937,0.58564,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.501,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.6010000000000001,CoxPHFitter,0.65632,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.7010000000000001,CoxPHFitter,0.65585,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.801,CoxPHFitter,0.65608,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.801,0.901,CoxPHFitter,0.65655,0.57459,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.001,CoxPHFitter,0.66384,0.57459,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.101,CoxPHFitter,0.65984,0.61326,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.201,CoxPHFitter,0.63773,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.30100000000000005,CoxPHFitter,0.63256,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.401,CoxPHFitter,0.65796,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.501,CoxPHFitter,0.65585,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.6010000000000001,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.7010000000000001,CoxPHFitter,0.65608,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.801,CoxPHFitter,0.65655,0.57459,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,0.901,0.901,CoxPHFitter,0.65632,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.001,CoxPHFitter,0.66337,0.57182,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.101,CoxPHFitter,0.65749,0.62431,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.201,CoxPHFitter,0.63279,0.62707,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.30100000000000005,CoxPHFitter,0.66079,0.59392,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.401,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.501,CoxPHFitter,0.65655,0.58011,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.6010000000000001,CoxPHFitter,0.65632,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.7010000000000001,CoxPHFitter,0.65632,0.57459,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.801,CoxPHFitter,0.65632,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status
+PCA,tcga,rhuh,1.001,0.901,CoxPHFitter,0.65655,0.57735,"sex, age, volume, ltdi, tdi, MGMT",OS (corrected),status

@@ -238,7 +238,7 @@ def correct_OS(DATA, cohort_ids, n_perms=1000, alpha=0.05):
         DATA["OS (corrected)"] = DATA["OS"]
 
     return DATA
-
+# TDMaps_IDH1-WT
 def load_maps(list_of_subjects, nFeatures, template, root, data_dir, tissue, tdmap, voxel_res, nthreads):
     maps = np.zeros((len(list_of_subjects), nFeatures))
     for i, subject in enumerate(list_of_subjects):

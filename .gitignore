@@ -7,3 +7,4 @@ results-NMF/
 results-PCA/
 old/results*/
 old/__pycache__/
+data-clinical_parcellation-hcpex_4-cohorts.csv
