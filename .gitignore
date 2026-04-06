@@ -1,10 +1,21 @@
 __pycache__/
-results/
-results-*/
+# results/
+# results-*/
 CSVs/
 results-KernelPCA/
 results-NMF/
 results-PCA/
-old/results*/
-old/__pycache__/
+# old/results*/
+# old/__pycache__/
 data-clinical_parcellation-hcpex_4-cohorts.csv
+
+# !results/**/*.csv
+# !results-*/**/*.csv
+# !old/results*/**/*.csv
+# !old/results-*/**/*.csv
+
+!results/*.csv
+!results-*/*.csv
+!old/results*/*.csv
+!old/results-nmf/*.csv
+
