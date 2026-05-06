@@ -35,10 +35,11 @@ class NMFProjections(MaskingNew, NMF):
             # Masking utilities
             MaskingNew.__init__(self, binary_mask, self.shape)    
             if binary_mask is not None:
-                self.training_maps = self.mask(np.array(training_maps))   
+                # Use asarray and cast to float32
+                self.training_maps = self.mask(np.asarray(training_maps, dtype=np.float32))   
                 print("INFO:\tTD maps were masked.")
             else:
-                self.training_maps = np.array(training_maps)
+                self.training_maps = np.asarray(training_maps, dtype=np.float32)
 
             # Normalization utilities
             Normalizations.__init__(self, self.training_maps)
@@ -131,10 +132,11 @@ class NMFProjections(MaskingNew, NMF):
             If a the attribute 'norm' does not exist. This is because a PCA
             space has not been fit.
         """
-        maps = np.array(maps)
+        maps = np.asarray(maps, dtype=np.float32)
+        
         if hasattr(self, "mask_flat"):
             print("INFO:\tTD maps were masked.")
-            maps = self.mask(maps)   
+            maps = self.mask(maps)
 
         if not hasattr(self, "norm"):
             raise RuntimeError("Must call fit_pca_maps() to apply the same normalization procedure as the training data.")
@@ -167,3 +169,7 @@ class NMFProjections(MaskingNew, NMF):
     @property
     def value(self):
         return "NMF"
+    
+    def get_feature_names_out(self, input_features=None):
+        import numpy as np
+        return np.array([f"NMF_Comp_{i}" for i in range(1, self.n_components_ + 1)])
