@@ -82,6 +82,10 @@ def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, RHU
     rhuh = site_groups.get('RHUH')
     tcga = site_groups.get('TCGA')
 
+    # print("Cohort ids and their corresponding sites:")
+    # print(f"UCSF: {cohort_ids[0]}")
+    # print(f"UPENN: {cohort_ids[1]}")
+
     # UCSF
     df_ucsf = pd.DataFrame({
         "ID": ucsf["ID"].values,
@@ -169,6 +173,7 @@ def process_data(root, stream_th, voxel_size, UCSF_dir=None, UPENN_dir=None, RHU
     })
 
     DATA = pd.concat([df_ucsf, df_upenn, df_rhuh, df_tcga], axis=0, ignore_index=True)
+    # DATA = pd.concat([df_ucsf, df_upenn], axis=0, ignore_index=True)
 
     if z_transform == 1:
         for col in ["age", "volume", "ltdi", "tdi"]:
