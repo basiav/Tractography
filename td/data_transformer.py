@@ -18,7 +18,10 @@ class DataTransformer:
     @staticmethod
     def add_extracted_mapsdata(df_base: pd.DataFrame, extracted_features: np.ndarray, method: FeatureMethod, n_components: int, column_names: list[str] | None = None) -> pd.DataFrame:
         if column_names is None:
-            column_names = [f"{method.value}_{DataTransformer.COMPONENT_PREFIX}_{i+1}" for i in range(n_components)]
+            column_names = [f"{method.value}_{DataTransformer.COMPONENT_PREFIX}_{i+1}" for i in range(extracted_features.shape[1])]
+
+        print(extracted_features.shape)
+        print(len(column_names))
         
         df_new_features = pd.DataFrame(
             extracted_features,

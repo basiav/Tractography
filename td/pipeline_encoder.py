@@ -52,5 +52,4 @@ class EncodingPipeline:
             if self.full_preprocessor is None:
                 raise RuntimeError("Najpierw wywołaj fit_transform na danych treningowych!")
             
-            # Używamy TYLKO .transform(), żeby zachować skale i kategorie z UCSF
             return self.full_preprocessor.transform(test_df)

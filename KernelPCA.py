@@ -29,7 +29,7 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
         # Sci-kit learn PCA method
         # PCA.__init__(self, n_components=n_components)
         KernelPCA.__init__(self, 
-        n_components=n_components, kernel=kernel, gamma=gamma, fit_inverse_transform=True, alpha=0.1
+        n_components=n_components, kernel=kernel, gamma=gamma, fit_inverse_transform=True, alpha=0.1, eigen_solver='randomized', tol=0,
         )
          
         # Masking utilities
@@ -37,8 +37,11 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
         if binary_mask is not None:
             self.training_maps = self.mask(np.array(training_maps))   
             print("INFO:\tTD maps were masked.")
+            print(f"DEBUG: Rozmiar macierzy przed PCA: {self.training_maps.shape}")
         else:
             self.training_maps = np.array(training_maps)
+
+        print(f"DEBUG: Rozmiar macierzy przed PCA: {self.training_maps.shape}")
 
         # Normalization utilities
         Normalizations.__init__(self, self.training_maps)
@@ -106,6 +109,7 @@ class TD_Kernel_PCA(KernelPCA, Normalizations, MaskingNew):
 
         print("INFO:\tPrincipal Components (PCs) found successfully!")
         self.training_scores = transformed_maps
+        print(f"DEBUG: Rozmiar macierzy po PCA: {transformed_maps.shape}")
         return transformed_maps
 
     def transform_maps(self, maps):
